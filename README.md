@@ -1,0 +1,1 @@
+This is a research project I conducted in my sophomore year. The idea is to train a neural network to recognize the action of a object, for example, a chair. Then looking into the interlayer ouput, hopefully to get some insights about the blackbox of neural network. For example, does it utilize any symmetry of the object to help the motion recognition.
